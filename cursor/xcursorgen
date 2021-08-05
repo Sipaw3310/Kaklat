@@ -1,0 +1,4 @@
+xcursorgen arrow.cursor left_ptr
+xcursorgen hand.cursor hand2
+xcursorgen dnd-copy.cursor dnd-copy
+xcursorgen dnd-move.cursor dnd-move

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208328 5.8208335"
+   version="1.1"
+   id="svg854"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="folder-documents.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview856"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="16.69"
+     inkscape:cx="0.509287"
+     inkscape:cy="3.9544638"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid917" />
+  </sodipodi:namedview>
+  <defs
+     id="defs851" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="m 0.79375,1.0815093 v 3.7010613 c 0,0.5090961 0.5424136,0.5090961 0.5424136,0.5090961 h 3.1617531 c 0,0 0.5291666,0 0.5291666,-0.5291667 V 2.1166667 L 3.8954017,0.90044786 3.5489583,0.52812501 l -0.660085,3.538e-5 -1.5834652,8.1284e-4 c 0,0 -0.5116581,0.0197206 -0.5116581,0.55253607 z M 1.328705,0.79467303 2.9104167,0.79375 H 3.4395833 L 3.706699,1.083178 4.7614583,2.2260417 4.7625,4.7625 c 0,0 0.00113,0.2655023 -0.2645833,0.2645833 L 1.3391455,5.0279948 C 1.0583333,5.0270833 1.0574219,4.7585957 1.0574219,4.7585957 V 1.1032154 C 1.0583333,0.79375 1.328705,0.79467303 1.328705,0.79467303 Z"
+       id="path857"
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="m 3.175,0.79375 v 1.0583333 c 0,0 0,0.5291667 0.5291666,0.5291667 L 4.7625,2.3803386 V 2.1166667 H 3.7041666 c -0.2645833,0 -0.2645833,-0.2645834 -0.2645833,-0.2645834 L 3.440625,0.79375 Z"
+       id="path2053"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <metadata
+     id="metadata915">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
